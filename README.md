@@ -8,8 +8,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/MarcoAndres", 
-      "Resume"   : "https://github.com/MarcoAndresSilva",
-      "IG"       : "https://www.instagram.com/marco_andres_silva8/"
+      "Resume"   : "https://github.com/MarcoAndresSilva"
      }
  }
  ```
