@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarcoAndresSilva](https://github.com/MarcoAndresSilva)
+- 👨‍💻 All of my projects are available at [https://github.com/MarcoAndresSilva?tab=repositories
 
 - 📫 How to reach me **marco.silvaponce10@gmail.com**
 
