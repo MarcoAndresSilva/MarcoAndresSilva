@@ -1,33 +1,41 @@
-<!-- README.md -->
-
-<h1 align="center">👋 Hola, soy Marco Silva</h1>
-<h3 align="center">Frontend Developer desde Chile — apasionado por la tecnología, el diseño limpio y las buenas prácticas</h3>
+<h1 align="center">👋 Hi, I'm Marco Silva</h1>
+<h3 align="center">Frontend Developer from Chile — passionate about technology, clean design, and best coding practices</h3>
 
 ---
 
-🎯 **Actualmente:**
-- 🧑‍💻 Trabajando como **Desarrollador Freelance**
-- 📚 Profundizando conocimientos en **TypeScript** y **Angular**
-- 🔧 También tengo experiencia con **PHP**, **MySQL**, **MongoDB** y **Docker**
+🎯 **Currently:**
+- 🧑‍💻 Working as a **Freelance Frontend Developer**
+- 📚 Deepening knowledge in **TypeScript** and **Angular**
+- 🛠️ Also experienced with **PHP**, **MySQL**, **MongoDB**, and **Docker**
 
-🛠 **Stack de tecnologías:**
+---
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-📈 **Estadísticas GitHub:**
+🛠️ **Tech Stack:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAndresSilva&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square" width="210" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" width="210" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" width="210" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" width="110" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" width="110" />
+  <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square" width="110" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" width="110" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" width="110" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" width="210" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" width="110" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" width="110" />
+</p>
+
+---
+
+📊 **GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoAndresSilva&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAndresSilva&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+ 
 </p>
 
 📬 **Contacto:**
