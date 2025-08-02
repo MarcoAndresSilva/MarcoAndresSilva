@@ -5,7 +5,7 @@
 
 🎯 **Currently:**
 - 🧑‍💻 Working as a **Freelance Frontend Developer**
-- 📚 Deepening knowledge in **TypeScript** and **Angular 5+** and **DodeJS**
+- 📚 Deepening knowledge in **TypeScript** and **Angular 5+** and **NodeJS**
 - 🛠️ Also experienced with **PHP**, **MySQL**, **MongoDB**, and **Docker**
 
 ---
