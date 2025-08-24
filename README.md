@@ -60,4 +60,5 @@
 
 ---
 
-⭐ *Gracias por visitar mi perfil*
+⭐ *Gracias por visitar mi perfil* 
+⭐ *Agradeceria me dieras feedback de mis proyectos*
