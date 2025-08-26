@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Marco Silva</h1>
-<h3 align="center">FrontEnd Developer from Chile — passionate about technology, clean design, and best coding practices</h3>
+<h3 align="center">FrontEnd Developer from Chile — passionate about technology, clean code, and best coding practices, SOLID</h3>
 
 ---
 
