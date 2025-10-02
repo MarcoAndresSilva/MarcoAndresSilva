@@ -5,7 +5,7 @@
 
 🎯 **Currently**
 - 🧑‍💻 Working as a **Fullstack Developer**
-- 📚 Deepening knowledge in **TypeScript**, **Angular**, **NodeJS**, and **NestJS**
+- 📚 Deepening knowledge in **TypeScript**, **Angular**, **NodeJS**, **NestJS**, **BFF** and **JWT**
 - 🛠️ Experienced with **PHP**, **MySQL**, **MongoDB**, and **Docker**
 
 ---
