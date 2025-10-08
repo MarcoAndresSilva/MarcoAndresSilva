@@ -29,15 +29,17 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend / APIs
+### ⚙️ Backend / APIs / Arquitectura
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-BFF-FF9900?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microservices-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </p>
+
 
 ### 🗄️ Base de Datos / Datos
 <p align="center">
