@@ -87,7 +87,6 @@
 
 ## 📬 Contact
 - ✉️ **Email:** marco.silvaponce10@gmail.com  
-- 💼 **GitHub:** [Mis proyectos](https://github.com/MarcoAndresSilva?tab=repositories)
 
 ---
 
