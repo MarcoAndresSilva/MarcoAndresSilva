@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Marco Andres Silva </h1>
 <p align="center">
-  <strong>Fullstack Software Engineer | Especialista en Angular & NestJS | Experto en FinTech & Arquitectura de Software</strong>
+  <strong>Fullstack Software Engineer | Angular & NestJS | FinTech & Arquitectura de Software</strong>
 </p>
 
 <p align="center">
