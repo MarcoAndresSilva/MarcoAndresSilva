@@ -75,7 +75,7 @@ Actualmente me desempeño como **Fullstack Developer** en el ecosistema de **Ope
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MarcoAndresSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
