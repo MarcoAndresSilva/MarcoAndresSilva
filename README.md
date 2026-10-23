@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un **Ingeniero en Informática** apasionado por la tecnología, el código limpio (Clean Code) y las mejores prácticas de desarrollo. Con más de 3 años de experiencia en desarrollo y 6 años previos en infraestructura TI, tengo una visión 360° del software.
+Soy un **Ingeniero en Informática** apasionado por la tecnología, el código limpio (Clean Code) y las mejores prácticas de desarrollo. Con más de 3 años de experiencia en desarrollo y 5 años previos en infraestructura TI, tengo una visión 360° del software.
 
 Actualmente me desempeño como **Fullstack Developer** en el ecosistema de **OpenBanking para BancoEstado**, liderando implementaciones bajo la **Ley Fintec**. Mi enfoque actual es la construcción de sistemas altamente escalables utilizando Microservicios, Microfrontends y patrones de diseño modernos.
 
